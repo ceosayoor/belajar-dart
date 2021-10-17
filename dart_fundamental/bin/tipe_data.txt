@@ -1,0 +1,6 @@
+Tipe data yang didukung oleh bahasa pemrograman Dart antara lain :
+1. Number yang terdiri dari integer dan double
+2. String
+3. Boolean
+4. List
+5. Map

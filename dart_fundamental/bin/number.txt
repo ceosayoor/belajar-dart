@@ -1,0 +1,10 @@
+Numbers atau angka dalam dart digunakan untuk mewakili literal numerik.
+Pada dart, number memiliki dua tipe data yaitu integer dan double
+
+1. Integer  : Nilai bilangan bulat yang mewakili nilai non-pecahan,
+              yaitu nilai numerik tanpa titik desimal.
+              Misalnya, nilai “10” adalah bilangan bulat.
+              Literal integer direpresentasikan menggunakan syntax int
+2. double   : Dart juga mendukung nilai numerik pecahan yaitu nilai dengan titik desimal.
+              Tipe data double di Dart mewakili angka floating-point 64-bit (presisi ganda).
+              Misalnya, nilai “10.10”. syntax double digunakan untuk mewakili literal floating point.
