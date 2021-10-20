@@ -105,7 +105,7 @@ main(List<String> args) {
 
   /*
   Method pada tipe data number :
-  9. truncate (nama_var.truncate())
+  10. truncate (nama_var.truncate())
      Mengembalikan nilai int tanpa desimal dari variabel tertentu
   */
   print('10. Method truncate()');

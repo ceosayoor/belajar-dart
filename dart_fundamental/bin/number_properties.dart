@@ -75,4 +75,14 @@ main(List<String> args) {
   int numOdd1 = 10;
   print("is $numOdd1 odd number ? ${numOdd1.isOdd}");
   print('------------------------------------------------');
+
+  /*
+  Properties pada tipe data number :
+  8. isNan (nama_var.isNan)
+     Mengembalikan nilai true jika variabel bukan berupa number
+  */
+  print('8. Property isNan');
+  var str = 123;
+  print("is $str is not a number ? ${str.isNaN}");
+  print('------------------------------------------------');
 }
