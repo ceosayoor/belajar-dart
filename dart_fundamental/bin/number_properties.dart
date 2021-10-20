@@ -85,4 +85,7 @@ main(List<String> args) {
   var str = 123;
   print("is $str is not a number ? ${str.isNaN}");
   print('------------------------------------------------');
+
+  print(str.bitLength);
+  print(str.runtimeType);
 }
